@@ -1,5 +1,7 @@
 # n8n-htx-onboarding
 
+I have used n8n to create the new employee record in Airtable, where tasks were created in the Todoist app thereafter. The n8n is hosted in the Cloud via Render.
+
 Production URL for users to input new employee details to create new employee account and tasks: https://n8n-ojkl.onrender.com/form/newEmployeeOnboard
 <br>
 <br>
