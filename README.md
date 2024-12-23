@@ -19,7 +19,7 @@ Design of the system:<br><br>
 ![image](https://github.com/user-attachments/assets/fc44ca44-e7c6-4cb2-8cd1-6cd4312f29fc)
 
 <br>
-Referring to the image above, the workflow is triggered when a form where the new employee details were keyed in was submitted, I made some edits in the 'Edit Fields' section to take only relevant values from the fields from the form, as well as created a new field called 'Full Name' which is the concatenation of 'First Name' + ' ' + 'Last Name'. After that, I create the record in the Airtable database. After the record is successfully created, I integrate to the 'Todoist' app where 3 tasks were created in the app to notify the users of the 'New employee issues (laptop, staff pass, welcome goody bag)' tasks.
+Referring to the image above, the workflow is triggered when a form where the new employee details were keyed in was submitted. I made some edits in the 'Edit Fields' section to take only relevant values from the fields from the form, as well as created a new field called 'Full Name' which is the concatenation of 'First Name' + ' ' + 'Last Name'. After that, I create the record in the Airtable database. After the record is successfully created, I integrate to the 'Todoist' app where 3 tasks were created in the app to notify the users of the 'New employee issues (laptop, staff pass, welcome goody bag)' tasks.
 
 I have created an error workflow which will email to the specified email address of any failures in the workflow mentioned above.
 <br><br>
