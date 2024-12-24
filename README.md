@@ -31,5 +31,5 @@ This is an example of an email that will be received if the workflow fails:<br><
 ![image](https://github.com/user-attachments/assets/02356493-7c58-4ad7-ba7c-e054e9740902)
 <br><br>
 The email provides details as to at which node the workflow has failed (ie did the workflow fail at creating records in Airtable or at integration to Todoist app) and also the timestamp where the failure occured. With the timestamp, the error log can be easily retrieved.
-
+<br><br>Thank you
 
